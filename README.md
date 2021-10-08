@@ -28,6 +28,6 @@ I'm a student and I'm interested in developing stuff like discord Bots but also 
 ![Windows](https://img.shields.io/badge/-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=00a8e8)
 ![Intellij](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white&color=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juoper&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juoper&theme=tokyonight&layout=compact)
 
 ![Metrics](https://github.com/Juoper/Juoper/blob/main/github-metrics.svg)
