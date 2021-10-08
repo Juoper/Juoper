@@ -30,4 +30,4 @@ I'm a student and I'm interested in developing stuff like discord Bots but also 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juoper&layout=compact&theme=tokyonight)  
 
-![Metrics](https://github.com/Juoper/Juoper/blob/master/github-metrics.svg)
+![Metrics](https://github.com/Juoper/Juoper/blob/main/github-metrics.svg)
