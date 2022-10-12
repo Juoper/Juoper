@@ -6,7 +6,7 @@ I'm a student and I'm interested in developing stuff like discord Bots but also 
 
 ### About Me
 🔭 I’m currently working on my own Website and a Utility Discord Bot  
-🌱 I’m currently learning javascript, node.js, hmtl and css 
+🌱 I’m currently learning javascript, node.js, hmtl and css
 🎯 Where to find me:  
 
 <a href="https://discordapp.com/users/562708005905235978"><img src="https://img.shields.io/badge/Jouper%233620-1A1B27?style=flat-square&logo=discord"></a>
