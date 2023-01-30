@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Julian Thanner</h1>
 <h4 align="center">A student from Germany</h4>
 
-I'm a student and I'm interested in developing stuff like discord Bots but also projects with microcontrollers like arduino and raspberry pi. I'mm also participating in the [First Lego League](https://www.first-lego-league.org/de/) where i reached the worldfinal in Montevideo in Uruguay. And on the side i do the event technic in my school.
+I'm a student and I'm interested in developing stuff like discord Bots but also projects with microcontrollers like arduino and raspberry pi. I also participate in the [First Lego League](https://www.first-lego-league.org/de/) where i reached the worldfinal in Montevideo in Uruguay. And on the side i do the event technic in my school.
 
 
 ### About Me
